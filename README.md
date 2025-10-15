@@ -1,7 +1,5 @@
 ## Desafio — Análise de Dados com Excel e Copilot
 
-![Excel]([https://img.shields.io/badge[Dashboard](https://img.shields.io/badge%5BDashboard)]([https://img.shields.io/badge[Copilot](https://img.shields.io/badge%5BCopilot) Opcional](https://img.shields.io/badge
-
 ## 🚀 Visão Geral
 
 Este projeto apresenta um **Dashboard profissional desenvolvido no Microsoft Excel**, a partir de uma base de dados bruta, pensado para facilitar a análise de métricas-chave e a extração de insights visuais que apoiam a tomada de decisão estratégica.
